@@ -1,0 +1,108 @@
+Uri: https://bulldrop.net/
+File Name: C:\Downloaded Web Sites\bulldrop.net\index.htm
+Content Type: text/html
+
+Uri: https://bulldrop.net/android-chrome-192.png
+File Name: C:\Downloaded Web Sites\bulldrop.net\android-chrome-192.png
+Content Type: image/png
+
+Uri: https://bulldrop.net/android-chrome-512.png
+File Name: C:\Downloaded Web Sites\bulldrop.net\android-chrome-512.png
+Content Type: image/png
+
+Uri: https://bulldrop.net/apple-touch-icon-114.png
+File Name: C:\Downloaded Web Sites\bulldrop.net\apple-touch-icon-114.png
+Content Type: image/png
+
+Uri: https://bulldrop.net/apple-touch-icon-120.png
+File Name: C:\Downloaded Web Sites\bulldrop.net\apple-touch-icon-120.png
+Content Type: image/png
+
+Uri: https://bulldrop.net/apple-touch-icon-144.png
+File Name: C:\Downloaded Web Sites\bulldrop.net\apple-touch-icon-144.png
+Content Type: image/png
+
+Uri: https://bulldrop.net/apple-touch-icon-152.png
+File Name: C:\Downloaded Web Sites\bulldrop.net\apple-touch-icon-152.png
+Content Type: image/png
+
+Uri: https://bulldrop.net/apple-touch-icon-180.png
+File Name: C:\Downloaded Web Sites\bulldrop.net\apple-touch-icon-180.png
+Content Type: image/png
+
+Uri: https://bulldrop.net/apple-touch-icon-57.png
+File Name: C:\Downloaded Web Sites\bulldrop.net\apple-touch-icon-57.png
+Content Type: image/png
+
+Uri: https://bulldrop.net/apple-touch-icon-72.png
+File Name: C:\Downloaded Web Sites\bulldrop.net\apple-touch-icon-72.png
+Content Type: image/png
+
+Uri: https://bulldrop.net/assets/index-8d9e8f3c.js
+File Name: C:\Downloaded Web Sites\bulldrop.net\assets\index-8d9e8f3c.js
+Content Type: application/javascript
+
+Uri: https://bulldrop.net/assets/index-a96bb6d7.css
+File Name: C:\Downloaded Web Sites\bulldrop.net\assets\index-a96bb6d7.css
+Content Type: text/css
+
+Uri: https://bulldrop.net/assets/PPPangramSansRounded-Bold-53745bf2.woff2
+File Name: C:\Downloaded Web Sites\bulldrop.net\assets\PPPangramSansRounded-Bold-53745bf2.woff2
+Content Type: font/woff2
+
+Uri: https://bulldrop.net/assets/PPPangramSansRounded-Medium-88ae5566.woff2
+File Name: C:\Downloaded Web Sites\bulldrop.net\assets\PPPangramSansRounded-Medium-88ae5566.woff2
+Content Type: font/woff2
+
+Uri: https://bulldrop.net/assets/PPPangramSansRounded-Semibold-18316fde.woff2
+File Name: C:\Downloaded Web Sites\bulldrop.net\assets\PPPangramSansRounded-Semibold-18316fde.woff2
+Content Type: font/woff2
+
+Uri: https://bulldrop.net/assets/switcher-1bb899a3.png
+File Name: C:\Downloaded Web Sites\bulldrop.net\assets\switcher-1bb899a3.png
+Content Type: image/png
+
+Uri: https://bulldrop.net/assets/switcher-2f4db949.png
+File Name: C:\Downloaded Web Sites\bulldrop.net\assets\switcher-2f4db949.png
+Content Type: image/png
+
+Uri: https://bulldrop.net/assets/switcher-81db23b8.png
+File Name: C:\Downloaded Web Sites\bulldrop.net\assets\switcher-81db23b8.png
+Content Type: image/png
+
+Uri: https://bulldrop.net/assets/switcher-d5b083a2.png
+File Name: C:\Downloaded Web Sites\bulldrop.net\assets\switcher-d5b083a2.png
+Content Type: image/png
+
+Uri: https://bulldrop.net/favicon-32.png
+File Name: C:\Downloaded Web Sites\bulldrop.net\favicon-32.png
+Content Type: image/png
+
+Uri: https://bulldrop.net/favicon-48.png
+File Name: C:\Downloaded Web Sites\bulldrop.net\favicon-48.png
+Content Type: image/png
+
+Uri: https://bulldrop.net/favicon-96.png
+File Name: C:\Downloaded Web Sites\bulldrop.net\favicon-96.png
+Content Type: image/png
+
+Uri: https://bulldrop.net/favicon.ico
+File Name: C:\Downloaded Web Sites\bulldrop.net\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://bulldrop.net/manifest.webmanifest
+File Name: C:\Downloaded Web Sites\bulldrop.net\manifest.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://bulldrop.net/registerSW.js
+File Name: C:\Downloaded Web Sites\bulldrop.net\registerSW.js
+Content Type: application/javascript
+
+Uri: https://mc.yandex.ru/watch/86526562
+File Name: C:\Downloaded Web Sites\bulldrop.net\watch\86526562
+Content Type: image/gif
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-KJ6X9Z2NSG
+File Name: C:\Downloaded Web Sites\bulldrop.net\gtag\js
+Content Type: application/javascript
+
